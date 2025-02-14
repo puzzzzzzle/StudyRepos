@@ -4,7 +4,3 @@
 # 排除 .gitignore 文件
 !.gitignore
 !default.xml
-# 排除 .repo 目录及其子目录中的 manifests/default.xml 文件
-!/.repo/
-!/.repo/manifests/
-!/.repo/manifests/default.xml
