@@ -5,7 +5,7 @@
   <remote name="bitbucket" fetch="https://bitbucket.org" />
   <remote name="kernel" fetch="https://git.kernel.org/pub/scm/linux/kernel/git" />
 
-  <default remote="origin" revision="master" />
+  <default remote="origin" revision="master" sync-j="8"/>
 
   <!-- my projs -->
   <project name="puzzzzzzle/GoStudy" path="GoStudy" groups="my"/>
