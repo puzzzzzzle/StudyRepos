@@ -2,6 +2,7 @@
   <remote name="origin" fetch="https://github.com/" />
   <remote name="repo" fetch="https://repo.or.cz/" />
   <remote name="gitea" fetch="https://gitea.ttmath.org" />
+  <remote name="bitbucket" fetch="https://bitbucket.org" />
 
   <default remote="origin" revision="master" />
 
