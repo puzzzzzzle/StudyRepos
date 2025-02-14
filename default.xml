@@ -23,64 +23,62 @@
   <project name="puzzzzzzle/tauri_study" path="tauri_study" groups="my"/>
   <project name="puzzzzzzle/cmd_builder" path="cmd_builder" groups="my"/>
 
+<!-- algorithm -->
+<project name="TheAlgorithms/C" path="algorithm/TheAlgorithms_C" groups="algorithm"/>
+<project name="TheAlgorithms/C-Plus-Plus" path="algorithm/TheAlgorithms_C-Plus-Plus" groups="algorithm"/>
+<project name="TheAlgorithms/Java" path="algorithm/TheAlgorithms_Java" groups="algorithm"/>
+<project name="TheAlgorithms/Rust" path="algorithm/TheAlgorithms_Rust" groups="algorithm"/>
+<project name="TheAlgorithms/Python" path="algorithm/TheAlgorithms_Python" groups="algorithm"/>
 
-  <!-- algorithm -->
-  <project name="TheAlgorithms/C" path="TheAlgorithms_C" groups="algorithm"/>
-  <project name="TheAlgorithms/C-Plus-Plus" path="TheAlgorithms_C-Plus-Plus" groups="algorithm"/>
-  <project name="TheAlgorithms/Java" path="TheAlgorithms_Java" groups="algorithm"/>
-  <project name="TheAlgorithms/Rust" path="TheAlgorithms_Rust" groups="algorithm"/>
-  <project name="TheAlgorithms/Python" path="TheAlgorithms_Python" groups="algorithm"/>
-
-  <!-- cpp -->
-  <project name="boostorg/boost" path="boost" groups="cpp"/>
-  <project name="skypjack/entt" path="entt" groups="cpp"/>
-  <project name="alecthomas/entityx" path="entityx" groups="cpp"/>
-  <project name="fcgi2" path="fcgi2" remote="repo" groups="cpp"/>
-  <project name="google/tcmalloc" path="tcmalloc" groups="cpp"/>
-  <project name="tomasz.sowa/ttmath" path="ttmath" remote="gitea" groups="cpp"/>
-
+<!-- cpp -->
+<project name="boostorg/boost" path="cpp/boost" groups="cpp"/>
+<project name="skypjack/entt" path="cpp/entt" groups="cpp"/>
+<project name="alecthomas/entityx" path="cpp/entityx" groups="cpp"/>
+<project name="fcgi2" path="cpp/fcgi2" remote="repo" groups="cpp"/>
+<project name="google/tcmalloc" path="cpp/tcmalloc" groups="cpp"/>
+<project name="tomasz.sowa/ttmath" path="cpp/ttmath" remote="gitea" groups="cpp"/>
 
 <!-- game_engine -->
-<project name="EpicGames/UnrealEngine" path="UnrealEngine" groups="game_engine"/>
-<project name="kbengine/kbengine" path="kbengine" groups="game_engine"/>
-<project name="cloudwu/skynet" path="skynet" groups="game_engine"/>
+<project name="EpicGames/UnrealEngine" path="game_engine/UnrealEngine" groups="game_engine"/>
+<project name="kbengine/kbengine" path="game_engine/kbengine" groups="game_engine"/>
+<project name="cloudwu/skynet" path="game_engine/skynet" groups="game_engine"/>
 
 <!-- git -->
-<project name="git/git" path="git" groups="git"/>
-<project name="git-lfs/git-lfs" path="git-lfs" groups="git"/>
+<project name="git/git" path="git/git" groups="git"/>
+<project name="git-lfs/git-lfs" path="git/git-lfs" groups="git"/>
 
 <!-- java -->
-<project name="openjdk/jdk" path="jdk" groups="java"/>
-<project name="spring-projects/spring-boot" path="spring-boot" groups="java"/>
-<project name="spring-projects/spring-framework" path="spring-framework" groups="java"/>
+<project name="openjdk/jdk" path="java/jdk" groups="java"/>
+<project name="spring-projects/spring-boot" path="java/spring-boot" groups="java"/>
+<project name="spring-projects/spring-framework" path="java/spring-framework" groups="java"/>
 
 <!-- path_finding -->
-<project name="zhm-real/PathPlanning" path="PathPlanning" groups="path_finding"/>
-<project name="dharabor/pathfinding" path="pathfinding" remote="bitbucket" groups="path_finding"/>
-<project name="recastnavigation/recastnavigation" path="recastnavigation" groups="path_finding"/>
+<project name="zhm-real/PathPlanning" path="path_finding/PathPlanning" groups="path_finding"/>
+<project name="dharabor/pathfinding" path="path_finding/pathfinding" remote="bitbucket" groups="path_finding"/>
+<project name="recastnavigation/recastnavigation" path="path_finding/recastnavigation" groups="path_finding"/>
 
 <!-- python -->
-<project name="python/cpython" path="cpython" groups="python"/>
+<project name="python/cpython" path="python/cpython" groups="python"/>
 
 <!-- rust -->
-<project name="rust-lang-cn/rust-by-example-cn" path="rust-by-example-cn" groups="rust"/>
-<project name="sunface/rust-by-practice" path="rust-by-practice" groups="rust"/>
-<project name="sunface/rust-course" path="rust-course" groups="rust"/>
+<project name="rust-lang-cn/rust-by-example-cn" path="rust/rust-by-example-cn" groups="rust"/>
+<project name="sunface/rust-by-practice" path="rust/rust-by-practice" groups="rust"/>
+<project name="sunface/rust-course" path="rust/rust-course" groups="rust"/>
 
 <!-- server_framework -->
-<project name="grpc/grpc" path="grpc" groups="server_framework"/>
+<project name="grpc/grpc" path="server_framework/grpc" groups="server_framework"/>
 
 <!-- linux_src -->
-<project name="torvalds/linux" path="linux" remote="kernel" groups="linux_src"/>
+<project name="torvalds/linux" path="linux_src/linux" remote="kernel" groups="linux_src"/>
 
 <!-- sql -->
-<project name="redis/redis" path="redis" groups="sql"/>
-<project name="mongodb/mongo" path="mongo" groups="sql"/>
-<project name="postgres/postgres" path="postgres" groups="sql"/>
-<project name="sqlite/sqlite" path="sqlite" groups="sql"/>
-<project name="google/leveldb" path="leveldb" groups="sql"/>
+<project name="redis/redis" path="sql/redis" groups="sql"/>
+<project name="mongodb/mongo" path="sql/mongo" groups="sql"/>
+<project name="postgres/postgres" path="sql/postgres" groups="sql"/>
+<project name="sqlite/sqlite" path="sql/sqlite" groups="sql"/>
+<project name="google/leveldb" path="sql/leveldb" groups="sql"/>
 
 <!-- lua -->
-<project name="lua/lua" path="lua" groups="lua"/>
+<project name="lua/lua" path="lua/lua" groups="lua"/>
 
 </manifest>
