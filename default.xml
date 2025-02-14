@@ -13,6 +13,7 @@
   <project name="puzzzzzzle/JavaToolsStudy" path="JavaToolsStudy" groups="my"/>
   <project name="puzzzzzzle/blog_code" path="blog_code" groups="my"/>
   <project name="puzzzzzzle/cpp_header_tools" path="cpp_header_tools" groups="my"/>
+  <project name="puzzzzzzle/cpp_study" path="cpp_study" groups="my"/>
   <project name="puzzzzzzle/js_study" path="js_study" groups="my"/>
   <project name="puzzzzzzle/lua_study" path="lua_study" groups="my"/>
   <project name="puzzzzzzle/openai_study" path="openai_study" groups="my"/>
