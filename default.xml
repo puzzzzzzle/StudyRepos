@@ -1,0 +1,6 @@
+<manifest>
+  <remote name="origin" fetch="https://github.com/puzzzzzzle/" />
+  <default remote="origin" revision="master" />
+
+  <project name="GoStudy" path="GoStudy" />
+</manifest>
