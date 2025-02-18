@@ -4,3 +4,4 @@
 # 排除 .gitignore 文件
 !.gitignore
 !default.xml
+!README.md
