@@ -9,20 +9,20 @@
   <default remote="origin" revision="master" sync-j="8"/>
 
   <!-- my projs -->
-  <project name="puzzzzzzle/GoStudy" path="GoStudy" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/JavaStudy" path="JavaStudy" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/JavaToolsStudy" path="JavaToolsStudy" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/blog_code" path="blog_code" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/cpp_header_tools" path="cpp_header_tools" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/cpp_study" path="cpp_study" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/js_study" path="js_study" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/lua_study" path="lua_study" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/openai_study" path="openai_study" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/python_study" path="python_study" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/rust_study" path="rust_study" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/spring-cloud-study" path="spring-cloud-study" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/tauri_study" path="tauri_study" groups="my" remote="github_ssh"/>
-  <project name="puzzzzzzle/cmd_builder" path="cmd_builder" groups="my" remote="github_ssh"/>
+  <project name="puzzzzzzle/GoStudy" path="GoStudy" groups="my"/>
+  <project name="puzzzzzzle/JavaStudy" path="JavaStudy" groups="my"/>
+  <project name="puzzzzzzle/JavaToolsStudy" path="JavaToolsStudy" groups="my"/>
+  <project name="puzzzzzzle/blog_code" path="blog_code" groups="my"/>
+  <project name="puzzzzzzle/cpp_header_tools" path="cpp_header_tools" groups="my"/>
+  <project name="puzzzzzzle/cpp_study" path="cpp_study" groups="my"/>
+  <project name="puzzzzzzle/js_study" path="js_study" groups="my"/>
+  <project name="puzzzzzzle/lua_study" path="lua_study" groups="my"/>
+  <project name="puzzzzzzle/openai_study" path="openai_study" groups="my"/>
+  <project name="puzzzzzzle/python_study" path="python_study" groups="my"/>
+  <project name="puzzzzzzle/rust_study" path="rust_study" groups="my"/>
+  <project name="puzzzzzzle/spring-cloud-study" path="spring-cloud-study" groups="my"/>
+  <project name="puzzzzzzle/tauri_study" path="tauri_study" groups="my"/>
+  <project name="puzzzzzzle/cmd_builder" path="cmd_builder" groups="my"/>
 
 <!-- algorithm -->
 <project name="TheAlgorithms/C" path="algorithm/TheAlgorithms_C" groups="algorithm"/>
