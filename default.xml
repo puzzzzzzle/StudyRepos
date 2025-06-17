@@ -24,7 +24,8 @@
   <project name="puzzzzzzle/tauri_study" path="tauri_study" groups="my"/>
   <project name="puzzzzzzle/cmd_builder" path="cmd_builder" groups="my"/>
   <project name="puzzzzzzle/AIStudy" path="AIStudy" groups="my"/>
-
+  <project name="puzzzzzzle/StudyRepos" path="StudyRepos" groups="my"/>
+  
 <!-- algorithm -->
 <project name="TheAlgorithms/C" path="algorithm/TheAlgorithms_C" groups="algorithm"/>
 <project name="TheAlgorithms/C-Plus-Plus" path="algorithm/TheAlgorithms_C-Plus-Plus" groups="algorithm"/>
