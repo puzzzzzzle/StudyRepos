@@ -26,6 +26,7 @@
   <project name="puzzzzzzle/AIStudy" path="AIStudy" groups="my"/>
   <project name="puzzzzzzle/StudyRepos" path="StudyRepos" groups="my"/>
   <project name="puzzzzzzle/strife_game_rs" path="strife_game_rs" groups="my"/>
+  <project name="puzzzzzzle/k8s_study" path="k8s_study" groups="my"/>
 
 <!-- algorithm -->
 <project name="TheAlgorithms/C" path="algorithm/TheAlgorithms_C" groups="algorithm"/>
